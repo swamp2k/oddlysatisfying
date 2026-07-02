@@ -15,11 +15,18 @@ import weave from './toys/weave.js';
 import zengarden from './toys/zengarden.js';
 import powerwash from './toys/powerwash.js';
 import dominoes from './toys/dominoes.js';
+import press from './toys/press.js';
+import filings from './toys/filings.js';
+import soap from './toys/soap.js';
+import marbles from './toys/marbles.js';
+import woodplane from './toys/woodplane.js';
+import marbling from './toys/marbling.js';
 
 const toys = [
   bubblewrap, sand, ripples, pendulumwave, harmonograph,
   fruitslicer, snowglobe, magnets, origami, honey,
   glitterjar, perfectcircle, weave, zengarden, powerwash, dominoes,
+  press, filings, soap, marbles, woodplane, marbling,
 ];
 
 const canvas = document.getElementById('stage');

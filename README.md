@@ -23,6 +23,12 @@ no dependencies — just vibes.
 | **Zen Garden** | Pull a five-tine rake through the sand, leaving embossed grooves that curve with your hand. The stones just sit there. |
 | **Power Wash** | A colorful mural hides under grime. Hold to spray it clean, stripe by stripe, hiss included. |
 | **Dominoes** | A spiral of dominoes seen from above. Tap one and the wave clacks all the way to the center. |
+| **Hydraulic Press** | Hold to bring the ram down on a melon, a duck, a soda can… they squash wide, then give way with a burst. Of course. |
+| **Magnetic Filings** | Thousands of iron filings swing into the field lines of a draggable bar magnet, glowing where the field is strong. |
+| **Soap Cutting** | Drag the knife down through the end of the bar and the slice breaks into little cubes that tumble off the table. |
+| **Marble Run** | Marbles rain onto a staircase of wooden ramps, plinking their way down forever. Tap to drop more. |
+| **Wood Planing** | Drag the hand plane along a rough board and a shaving curls up off the blade, stripe by stripe, until it's smooth. |
+| **Paint Marbling** | Real paper-marbling math: tap to drop paint that pushes earlier blobs aside, drag to comb the colors into swirls. |
 
 All sound is synthesized live with the Web Audio API — there are no audio
 files. Everything renders to a single `<canvas>` with vanilla JavaScript.
@@ -47,5 +53,5 @@ sized in CSS pixels), pointer helpers, and synthesized sound
 function. Register it in the `toys` array in `js/main.js` and it appears
 in the nav.
 
-Ideas that would fit: hydraulic press (of course), magnetic filings,
-soap cutting, kinetic marble runs, wood planing curls, paint mixing.
+Ideas that would fit: slime stretching, tape peeling, candle carving,
+gear trains, a sand pendulum, pressure-washing a driveway in 3D.
