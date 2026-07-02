@@ -55,9 +55,9 @@ body {
   background: transparent;
   color: var(--ink-dim);
   font: inherit;
-  font-size: 0.88rem;
+  font-size: 0.8rem;
   font-weight: 600;
-  padding: 0.35rem 0.75rem;
+  padding: 0.28rem 0.6rem;
   border-radius: 999px;
   cursor: pointer;
   transition: color 120ms, background 120ms;

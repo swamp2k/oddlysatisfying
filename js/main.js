@@ -4,8 +4,23 @@ import sand from './toys/sand.js';
 import ripples from './toys/ripples.js';
 import pendulumwave from './toys/pendulumwave.js';
 import harmonograph from './toys/harmonograph.js';
+import fruitslicer from './toys/fruitslicer.js';
+import snowglobe from './toys/snowglobe.js';
+import magnets from './toys/magnets.js';
+import origami from './toys/origami.js';
+import honey from './toys/honey.js';
+import glitterjar from './toys/glitterjar.js';
+import perfectcircle from './toys/perfectcircle.js';
+import weave from './toys/weave.js';
+import zengarden from './toys/zengarden.js';
+import powerwash from './toys/powerwash.js';
+import dominoes from './toys/dominoes.js';
 
-const toys = [bubblewrap, sand, ripples, pendulumwave, harmonograph];
+const toys = [
+  bubblewrap, sand, ripples, pendulumwave, harmonograph,
+  fruitslicer, snowglobe, magnets, origami, honey,
+  glitterjar, perfectcircle, weave, zengarden, powerwash, dominoes,
+];
 
 const canvas = document.getElementById('stage');
 const nav = document.getElementById('toy-nav');
